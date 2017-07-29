@@ -1,2 +1,1 @@
-# headerParser
-Show user their ip, OS, locale.
+ Show the IP address, language and operating system
